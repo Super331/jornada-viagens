@@ -32,5 +32,7 @@ button {
 }
 
 h1 {
-    color: var(--butoon-color_primary_color)
+    font-family: "Montserrat";
+    font-weight: var(--title-weight);
+    color: var(--primary_color)
 }
