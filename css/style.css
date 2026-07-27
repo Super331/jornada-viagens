@@ -1,0 +1,36 @@
+/* Background 
+Botoes
+Cores de textos*/
+
+:root {
+    --background-color_primary_color: #ffffff;
+    --background-color_secondary_color: #F5F5F5;
+    --background-color_tertiary_color: #000000;
+
+    --butoon-color_primary_color: #8F0101;
+    --butoon-color_secondary_color: #B81515;
+
+    --text-primary-color: #222222;
+    --text-secondary-color: #FFFFFF;
+}
+
+/* CSS RESET */
+body,
+img,
+h1,
+p,
+fieldset,
+legend,
+label,
+input,
+select,
+textarea,
+button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: var(--butoon-color_primary_color)
+}
