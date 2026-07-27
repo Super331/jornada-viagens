@@ -1,29 +1,17 @@
-@font-face {
-    font-family: "Montserrat";
-    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
-    font-style: normal;
-    font-display: swap;
-}
+/* Background 
+Botoes
+Cores de textos*/
+
 :root {
-    --primary_color: #8F0101;
-    --secondary_color: #B81515;
-
-
     --background-color_primary_color: #ffffff;
     --background-color_secondary_color: #F5F5F5;
     --background-color_tertiary_color: #000000;
 
-    
+    --butoon-color_primary_color: #8F0101;
+    --butoon-color_secondary_color: #B81515;
+
     --text-primary-color: #222222;
     --text-secondary-color: #FFFFFF;
-
-    --title-weight: 700;
-    --text-weigth: 400,
-    --menu-text-weight: 500
-
-    menu: 500
-    footer: 400
-    cards: 400 e 700
 }
 
 /* CSS RESET */
@@ -44,7 +32,5 @@ button {
 }
 
 h1 {
-    font-family: "Montserrat";
-    font-weight: var(--title-weight);
-    color: var(--primary_color)
+    color: var(--butoon-color_primary_color)
 }
