@@ -2,9 +2,9 @@
 Botoes
 Cores de textos*/
 @font-face {
-    font-family: "Montserrat";
-    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
-    font-style: normal;
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+  font-style: normal;
 }
 :root {
   --background-color_primary_color: #ffffff;
