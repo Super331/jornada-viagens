@@ -12,8 +12,12 @@ header {
   width: 68px;
   height: 64px;
 }
-.navigation-menu{
+.navigation-menu {
   margin-top: 24px;
+}
+
+input[type="checkbox"]:checked ~ nav{
+  display: block;
 }
 
 nav {
