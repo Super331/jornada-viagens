@@ -5,6 +5,7 @@ Cores de textos*/
   font-family: "Montserrat";
   src: url("../fonts/Montserrat-VariableFont_wght.ttf");
   font-style: normal;
+  font-display: swap;
 }
 :root {
   --background-color_primary_color: #ffffff;
@@ -16,6 +17,10 @@ Cores de textos*/
 
   --text-primary-color: #222222;
   --text-secondary-color: #ffffff;
+
+  --title-wigth:700;
+  --text-weigth:400;
+  --menu-text-weigth:500
 }
 
 /* CSS RESET */
