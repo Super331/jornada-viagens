@@ -3,6 +3,7 @@
   width: 100%;
   background: url(../img/hero-mobile.jpg) no-repeat;
   background-size: cover;
+  background-position: center;
 }
 .hero h2 {
   padding: 88px 24px;
@@ -17,6 +18,7 @@
     width: 100%;
     background: url(../img/hero-tablet.jpg) no-repeat;
     background-size: cover;
+    background-position: center;
   }
 
   .hero h2 {
@@ -31,10 +33,11 @@
     width: 100%;
     background: url(../img/hero-desktop.jpg) no-repeat;
     background-size: cover;
+    background-position: center;
   }
-  .hero h2{
-  padding: 88px 120px;
-  font-size: 32px;
+  .hero h2 {
+    padding: 88px 120px;
+    font-size: 32px;
   }
 }
 
@@ -44,9 +47,10 @@
     width: 100%;
     background: url(../img/hero-desktop.jpg) no-repeat;
     background-size: cover;
+    background-position: center;
   }
-  .hero h2{
-  padding: 88px 120px;
-  font-size: 32px;
+  .hero h2 {
+    padding: 88px 120px;
+    font-size: 32px;
   }
 }
